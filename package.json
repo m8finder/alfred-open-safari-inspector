@@ -1,0 +1,39 @@
+{
+  "name": "alfred-open-safari-inspector",
+  "version": "1.0.0",
+  "description": "Quickly open a selected simulator device's devtools with alfred",
+  "keywords": [
+    "alfred",
+    "workflow",
+    "ios-simulator",
+    "simulator",
+    "safari",
+    "inspector"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "M8FINDER",
+    "email": "oss@m8finder.net",
+    "url": "https://www.m8finder.net/"
+  },
+  "contributors": [
+    {
+      "name": "Marvin Heilemann",
+      "email": "marvin.heilemann+oss@googlemail.com",
+      "url": "https://marvin.digital/"
+    }
+  ],
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "dependencies": {
+    "alfy": "*",
+    "execa": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3"
+  }
+}
