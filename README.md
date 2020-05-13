@@ -6,6 +6,7 @@
 Alfred workflow to easily open a iOS Simulator's Safari inspector.
 
 - [Installation](#installation)
+- [Development](#development)
 - [Credits](#credits)
 
 ## Installation
@@ -15,6 +16,16 @@ npm install --global alfred-open-safari-inspector
 ```
 
 > You may need to set "Allow automation" in Safari developer menu.
+
+![Alfred workflow preview](preview.gif)
+
+## Development
+
+Clone the repo and start with installing packages:
+
+```
+pnpm install --ignore-scripts
+```
 
 ## Credits
 
@@ -26,3 +37,4 @@ npm install --global alfred-open-safari-inspector
   [my question](https://apple.stackexchange.com/questions/391038/trying-to-access-safari-developer-tools-prints-access-not-allowed-1723/391048?noredirect=1#comment536095_391048)
 - Previous work done by
   [alphacat2018/AlfredOpenSafariInspector](https://github.com/alphacat2018/AlfredOpenSafariInspector)
+- Thanks to [Gifski](https://sindresorhus.com/gifski) for making a Gif easy
