@@ -1,0 +1,6 @@
+*.gif
+*.png
+node_modules
+.git
+.vscode
+.*
