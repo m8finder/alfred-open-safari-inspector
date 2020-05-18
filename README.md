@@ -1,5 +1,5 @@
 <h1>
-  <img src="icon.png" align="right" height="80"/>
+  <img src="https://github.com/m8finder/alfred-open-safari-inspector/raw/master/icon.png" align="right" height="80"/>
   <b>Alfred Open Safari Inspector</b>
 </h1>
 
@@ -17,7 +17,7 @@ npm install --global alfred-open-safari-inspector
 
 > You may need to set "Allow automation" in Safari developer menu.
 
-![Alfred workflow preview](preview.gif)
+![Alfred workflow preview](https://github.com/m8finder/alfred-open-safari-inspector/raw/master/preview.gif)
 
 ## Development
 

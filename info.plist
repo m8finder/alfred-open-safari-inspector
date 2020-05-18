@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>digital.marvin.open-safari-inspector</string>
+	<string>net.m8finder.open-safari-inspector</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
